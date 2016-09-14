@@ -1,0 +1,2 @@
+# assets
+Pokédex iOS Assets
